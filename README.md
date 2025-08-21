@@ -2,7 +2,21 @@
 
 Build M5Tab5-UserDemo in a docker container.
 
-## M5Tab5-UserDemo 
+## Instructions
+
+Run the following to build the demo.
+
+```bash
+docker_build.sh
+```
+
+Run the following to extract executables to `./output`
+
+```bash
+./docker_extract.sh
+```
+
+## M5Tab5-UserDemo
 
 * https://github.com/m5stack/M5Tab5-UserDemo
 
